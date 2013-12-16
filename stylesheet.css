@@ -10,3 +10,12 @@ h2 {
 	padding-bottom: 25px;
 	color: #acd1b2;
 }
+{
+	border:1px dashed #3A5FCD;
+	}
+	
+ul{
+	text-decoration:none;
+	font-family:cursive;
+	font-size:10px;
+}
